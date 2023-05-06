@@ -1,1 +1,1 @@
-# DS-Capstone-Project
+# Applied-Data-Science-Capstone-Project for "IBM Data Science Professional Certificate"
